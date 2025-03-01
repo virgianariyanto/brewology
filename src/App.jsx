@@ -1,5 +1,6 @@
 import Header from './layout/Header'
 import Hero from './layout/Hero'
+import About from './layout/About'
 import './App.css'
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
     <>
       <Header />
       <Hero />
-      
+      <About />
     </>
   )
 }

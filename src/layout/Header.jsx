@@ -66,7 +66,8 @@ function Header() {
         <nav className="">
           <ul className="hidden md:flex md:items-end">
             <li className="mr-4">Home</li>
-            <li className="mr-4">About</li>
+            <li className="mr-4">Menu</li>
+            <li className="mr-4">Gallery</li>
             <li className="">Contact</li>
           </ul>
         </nav>
