@@ -59,7 +59,7 @@ function Header() {
         {/* End Menu Icon */}
 
         {/* Logo Section */}
-        <span className="text-4xl hidden md:block"><span className="font-bold">Brew</span>ology</span>
+        <span className="text-4xl hidden text-[#F6D0A1] md:block"><span className="font-bold text-white">Brew</span>ology</span>
         {/* End Logo Section */}
 
         {/* Navbar Section */}
